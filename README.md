@@ -13,9 +13,9 @@ Profile:
 - 📫 How to reach me: weichechen8@gmail.com
 - 😄 Pronouns: mike
 - ⚡ Fun fact: I am in IPF team Canada 2025 and IPL team China 2025
-                World Powerlifting referee
-                IEEE-HKN
-                BCPA records
-                self-made Canadian PR before UBC starts because international tuition is too much
+World Powerlifting referee
+IEEE-HKN
+BCPA records
+self-made Canadian PR before UBC starts because international tuition is too much
 
 
