@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**MichaelPanda8/MichaelPanda8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**MichaelPanda8/MichaelPanda8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
+
+Profile:
 
 - 🔭 I’m currently working on COSC 499 Capstone Software Engineering Project
 - 🌱 I’m currently learning Computer science in UBC
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
                 BCPA records
                 self-made Canadian PR before UBC starts because international tuition is too much
 
--->
+
